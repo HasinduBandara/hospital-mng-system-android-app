@@ -9,22 +9,44 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1b029fd-17fa-4949-8b5a-f0b6b213546b" name="Changes" comment="" />
+    <list default="true" id="f1b029fd-17fa-4949-8b5a-f0b6b213546b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/health_care/helthcarehospital/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health_care/helthcarehospital/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health_care/helthcarehospital/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health_care/helthcarehospital/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health_care/helthcarehospital/.idea/modules/helthcarehospital.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health_care/helthcarehospital/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/health_care/helthcarehospital/local.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\HASINDU\.android\avd\Pixel_5_API_30.avd]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\Hasindu\.android\avd\Pixel_5_API_30.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="2EteF6UmoTfcwuFfyzgrHti2Ric" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -105,5 +127,8 @@
       <updated>1663419200552</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
